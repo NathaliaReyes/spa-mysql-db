@@ -1,6 +1,9 @@
 -- Estudiante: Silvia Reyes --------
 
--- 1. creación base de datos y tablas correspondientes --
+-- -------------------------------------------------------------------------------------------
+-- 2. CREACIÓN BASE DE DATOS Y TABLAS CORRESPONDIENTES
+-- -------------------------------------------------------------------------------------------
+
 DROP SCHEMA IF EXISTS DB_SPA;
 CREATE SCHEMA IF NOT EXISTS  DB_SPA; 
 USE DB_SPA;
