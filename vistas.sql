@@ -1,7 +1,7 @@
 -- Estudiante: Silvia Reyes --------
 
 -- -------------------------------------------------------------------------------------------
--- 2. VISTAS
+-- 3. VISTAS
 -- -------------------------------------------------------------------------------------------
 -- VISTA 1: muestre información sobre las ventas de productos, incluyendo el nombre del cliente, 
 -- 			el producto vendido, la cantidad, el total y la fecha. Además, queremos incluir solo 
