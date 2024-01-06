@@ -1,0 +1,19 @@
+Para la correcta instalación de la base de datos se debe referir a los scripts .sql en el siguiente orden:
+
+1- creacion-db-tablas.sql : En este archivo se creara la base de datos y las tablas correspondientes.
+
+2- inserciones.sql : Este archivo contiene las inserciones para las tablas previamente creadas.
+
+3- vistas.sql : En este archivo se referencia la creación de 5 vistas de la base de datos.
+
+4- funciones.sql : En este archivo se crearan las 2 funciones que corresponden a la base de datos.
+
+5- procedimientos.sql : En este archivo se crearan los 2 stored procedures.
+
+6- triggers.sql : En este archivo se realiza la creación de las 2 tablas de auditoría y los 4 disparadores para la base de datos.
+
+7- dcl.sql : En este archivo se puede visualizar la creación de los usuarios y darles los respectivos permisos a cada uno/una a la base de datos.
+
+8- tcl.sql : En este archivo se puede visualizar, iniciando una transacción, una sentencia de modificación hacia alguna de las tablas.
+
+9- backup.sql : En este archivo se referencia todo lo relacionado al backup de la base de datos. 
