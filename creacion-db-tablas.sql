@@ -1,6 +1,6 @@
 -- Estudiante: Silvia Reyes --------
 
--- 2. creación base de datos y tablas correspondientes --
+-- 1. creación base de datos y tablas correspondientes --
 DROP SCHEMA IF EXISTS DB_SPA;
 CREATE SCHEMA IF NOT EXISTS  DB_SPA; 
 USE DB_SPA;
